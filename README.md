@@ -118,7 +118,7 @@ This API uses `Basic Authentication`.
 
 ## List of APIs
 
-* [API](rdoc-ref:/doc/controllers/api.md)
+* [API](rdoc-ref:/doc/controllers/api)
 
 ## Classes Documentation
 
